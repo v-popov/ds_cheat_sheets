@@ -1,0 +1,6 @@
+[
+{"id": 0, "name": "Anna", "friends": [1, 2, 3], "birthdate": "1992-01-15", "bank_account": 12.3},
+{"id": 1, "name": "Nicole", "friends": [3], "birthdate": "1962-12-31", "bank_account": 0.1},
+{"id": 2, "name": "Charlie", "friends" : [0, 2], "birthdate": "1992-02-28", "bank_account": 9007199254740993.0},
+{"id": 3, "name": "Martin", "friends": null, "birthdate": "1990-04-28", "bank_account": 9007199254740993}
+]
